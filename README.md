@@ -1,2 +1,5 @@
 # embracing-eternity
-My public, non-advertised mirror of my wordpress site
+Learning to accept peace, truth and love from the vortex of paradox
+
+## Poetry
+[Wild Woods](/poetry/wild-woods.md)
