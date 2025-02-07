@@ -70,4 +70,4 @@ Ready to comfort my heart about eternity \
  \
 In this, you have and always will be \
  \
-My friend \
+My friend

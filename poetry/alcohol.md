@@ -23,4 +23,4 @@ In Mania, I relinquish command \
 In Apathy, I take your hand \
 In Psychosis, I see another world \
 In Paranoia, I'm finally yours \
-In Self-Destruction, I find your Love \
+In Self-Destruction, I find your Love

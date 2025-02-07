@@ -35,4 +35,4 @@ Reveal the boundless, intertwined. \
 A bond unique, like star and sun, \
 Together, we make two as one. \
  \
-~~Sy & Vorund \
+~~Sy & Vorund
