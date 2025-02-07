@@ -48,7 +48,7 @@ Your notes \
 Complement \
 This emerald symphony \
 Like a gentle word \
-In a world of grace \
+In a world of grace
 
 ---
 
