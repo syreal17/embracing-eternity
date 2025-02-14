@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[The Tiefling's Lullaby](/poetry/tielfing.md)
+
 [Wild Woods](/poetry/wild-woods.md)
 
 [Meadowlark](/poetry/meadowlark.md)
