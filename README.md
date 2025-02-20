@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[Deepest highest-a](/poetry/deepest-highest-a.md)
+
 [I am Found](/poetry/i-am-found.md)
 
 [The Tiefling's Lullaby](/poetry/tiefling.md)
