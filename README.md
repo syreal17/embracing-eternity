@@ -2,7 +2,7 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
-[New Home](/poetry/new-home.md)
+[Eyes](/poetry/eyes.md)
 
 [Deepest highest-a](/poetry/deepest-highest-a.md)
 
