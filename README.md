@@ -4,6 +4,8 @@ Learning to accept peace, truth and love from the vortex of paradox
 ## Poetry
 [Eyes](/poetry/eyes.md)
 
+[New Home](/poetry/new-home.md)
+
 [Deepest highest-a](/poetry/deepest-highest-a.md)
 
 [I am Found](/poetry/i-am-found.md)
