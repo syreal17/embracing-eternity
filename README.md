@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[Demons](/poetry/demons.md)
+
 [Home](/poetry/home.md)
 
 [Your name](/poetry/your-name.md)
