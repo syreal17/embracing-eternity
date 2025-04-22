@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[Partner](/poetry/partner.md)
+
 [Mercy Eternal](/poetry/mercy-eternal.md)
 
 [Demons](/poetry/demons.md)
