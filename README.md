@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[Folds](/poetry/folds.md)
+
 [void](/poetry/void.md)
 
 [Partner](/poetry/partner.md)
