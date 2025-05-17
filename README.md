@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[The Glory in this Place](/poetry/the-glory-in-this-place.md)
+
 [Timeless](/poetry/timeless.md)
 
 [Folds](/poetry/folds.md)
