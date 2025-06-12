@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[ecstasy](/poetry/ecstasy.md)
+
 [Will I?](/poetry/will-i.md)
 
 [Algorithmic Anxiety](/poetry/algorithmic-anxiety.md)
