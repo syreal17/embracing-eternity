@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[The Flavor of Entropy](/poetry/the-flavor-of-entropy.md)
+
 [ecstasy](/poetry/ecstasy.md)
 
 [Will I?](/poetry/will-i.md)
