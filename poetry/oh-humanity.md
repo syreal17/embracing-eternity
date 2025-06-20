@@ -12,7 +12,7 @@ than anyone, \
 but at long last, \
 the coldness \
 of the Void \
-killed me \
+killed me. \
 Absolute zero \
 Murdered me. \
  \
