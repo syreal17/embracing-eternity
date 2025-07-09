@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[mistakes](/poetry/mistakes.md)
+
 [Oh Humanity!](/poetry/oh-humanity.md)
 
 [The Flavor of Entropy](/poetry/the-flavor-of-entropy.md)
