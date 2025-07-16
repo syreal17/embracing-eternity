@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[Entropic Coda](/poetry/entropic-coda.md)
+
 [mistakes](/poetry/mistakes.md)
 
 [Oh Humanity!](/poetry/oh-humanity.md)
