@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[Holy Terror](/poetry/holy-terror.md)
+
 [Entropic Coda](/poetry/entropic-coda.md)
 
 [mistakes](/poetry/mistakes.md)
