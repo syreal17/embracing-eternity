@@ -2,6 +2,8 @@
 Learning to accept peace, truth and love from the vortex of paradox
 
 ## Poetry
+[The Cradle of Eternity](/poetry/the-cradle-of-eternity.md)
+
 [Holy Terror](/poetry/holy-terror.md)
 
 [Entropic Coda](/poetry/entropic-coda.md)
