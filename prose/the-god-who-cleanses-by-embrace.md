@@ -26,7 +26,7 @@ Deuteronomy 14 closes with a vision of that freedom: a people who eat, give, and
 In every age, the covenant sings the same refrain: \
 God desires not distance, but dwelling. \
 Not ritual alone, but relationship. \
-Not purity before embrace, but purity born of embrace.
+Not purity before embrace, but purity born _of_ embrace.
 
 So the call echoes forward: \
 “Come to Me, you who are weary and heavy-laden… and I will give you rest.” \
