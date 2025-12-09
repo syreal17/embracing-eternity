@@ -1,9 +1,11 @@
-# embracing-eternity
-Learning to accept peace, truth and love from the vortex of paradox
+# embracing-eternity (B-sides)
+Learning to accept peace, truth and love from the vortex of paradox.
 
-Visit our main blog [here](https://embracingeternity.wordpress.com).
+Visit our poetry blog [here](https://embracingeternity.wordpress.com).
 
-## Christian Exhortation
+## Prose Selection
+[The Snowflake and the Mirror](/prose/the-snowflake-and-the-mirror.md)
+
 [The God Who Cleanses by Embrace](/prose/the-god-who-cleanses-by-embrace.md)
 
 [Formed in the Wilderness](/prose/formed-in-the-wilderness.md)
