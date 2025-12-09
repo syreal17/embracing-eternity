@@ -1,4 +1,4 @@
-# embracing-eternity (B-sides)
+# (b-sides)
 Learning to accept peace, truth and love from the vortex of paradox.
 
 Visit our poetry blog [here](https://embracingeternity.wordpress.com).
