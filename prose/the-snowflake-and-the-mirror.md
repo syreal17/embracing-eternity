@@ -1,6 +1,6 @@
 ## The Snowflake and the Mirror: On the Real Power of AI
 
-![Our paper snowflakes](images/paper-snowflakes.jpg)
+![Our paper snowflakes](/images/paper-snowflakes.jpg)
 
 We made paper snowflakes today. Folded paper, careful cuts, the unfolding
 moment that never gets old. There is a small gasp each time a child opens their
