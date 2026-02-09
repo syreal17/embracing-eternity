@@ -1,9 +1,13 @@
 # (b-sides)
 Learning to accept peace, truth and love from the vortex of paradox.
 
-Visit our poetry blog [here](https://embracingeternity.wordpress.com).
+Visit our main poetry blog [here](https://embracingeternity.wordpress.com).
 
 ## Prose Selection
+[Beloved Bride of Christ](/prose/beloved-bride-of-christ.md)
+
+[The Illusion of Probability](/prose/the-illusion-of-probability.md)
+
 [The Snowflake and the Mirror](/prose/the-snowflake-and-the-mirror.md)
 
 [The God Who Cleanses by Embrace](/prose/the-god-who-cleanses-by-embrace.md)
